@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Exclusion\CLMInstaller\CLMInstaller\bin\Debug\CLMInstaller.exe.config
+C:\Users\User\Desktop\Exclusion\CLMInstaller\CLMInstaller\bin\Debug\CLMInstaller.exe
+C:\Users\User\Desktop\Exclusion\CLMInstaller\CLMInstaller\bin\Debug\CLMInstaller.pdb
+C:\Users\User\Desktop\Exclusion\CLMInstaller\CLMInstaller\bin\Debug\System.Management.Automation.dll
+C:\Users\User\Desktop\Exclusion\CLMInstaller\CLMInstaller\obj\Debug\CLMInstaller.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Exclusion\CLMInstaller\CLMInstaller\obj\Debug\CLMInstaller.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Exclusion\CLMInstaller\CLMInstaller\obj\Debug\CLMInstaller.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exclusion\CLMInstaller\CLMInstaller\obj\Debug\CLMInstaller.csproj.CopyComplete
+C:\Users\User\Desktop\Exclusion\CLMInstaller\CLMInstaller\obj\Debug\CLMInstaller.exe
+C:\Users\User\Desktop\Exclusion\CLMInstaller\CLMInstaller\obj\Debug\CLMInstaller.pdb
